@@ -2,7 +2,10 @@
 World countries geodata. Kosovo is Serbia.
 
 
+![alt text](https://github.com/Al-bambino/CountriesGeoJSON/blob/main/Screenshot%202021-01-12%20at%2019.14.56.png)
+
 If you need a file containg Geo coordinates of countries' borders, but showing Kosovo as Serbia - look no further!
+
 
 ```json
 {
