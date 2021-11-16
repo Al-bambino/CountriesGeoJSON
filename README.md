@@ -1,5 +1,5 @@
 # Countries---GeoJSON-
-World countries geodata. Kosovo is Serbia.
+World countries geodata, with Kosovo as Serbia.
 
 
 ![alt text](https://github.com/Al-bambino/CountriesGeoJSON/blob/main/Screenshot%202021-01-12%20at%2019.14.56.png)
